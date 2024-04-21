@@ -1,0 +1,31 @@
+.darkes{
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 6px;
+  border:none;
+  cursor:pointer;
+  background-color: black;
+  color:white;
+}
+.white{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 6px;
+  border:none;
+  cursor:pointer;
+}
+
+.hidden{
+    display:none;
+}
+.Hello{
+    font-size:30px;
+  position: absolute;
+  top: 51%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
